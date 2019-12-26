@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#hogehoge
+#Written by Kae Doki
 
 exec 2> /tmp/setup.log
 
