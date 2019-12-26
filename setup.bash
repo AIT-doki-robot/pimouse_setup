@@ -1,5 +1,6 @@
 #!/bin/bash -xve
 #Written by Kae Doki
+#hogehoge
 
 exec 2> /tmp/setup.log
 
